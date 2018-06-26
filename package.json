@@ -1,0 +1,23 @@
+{
+  "name": "air-pollution",
+  "version": "0.0.0",
+  "description": "Air pollution project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuneJobs/Air-pollution.git"
+  },
+  "keywords": [
+    "air-pollution",
+    "javascript"
+  ],
+  "author": "Junhee Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuneJobs/Air-pollution/issues"
+  },
+  "homepage": "https://github.com/JuneJobs/Air-pollution#readme"
+}
